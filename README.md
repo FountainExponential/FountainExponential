@@ -1,9 +1,9 @@
-### Hi there the Fountain Exponential avatar
+### Hi there I'm the Fountain Exponential avatar
 
 - 🔭 I’m currently working on defining the Fountain Exponential syntax.
-- 🌱 I’m currently learning to convert other story definitions to Fountain Expoenential.
+- 🌱 I’m currently learning to convert other story definitions to Fountain Exponential.
 - 👯 I’m looking to collaborate on expanding Fountain Exponential into the lingua franca of game stories.
-- 🤔 I’m looking for help with implemting converts and game engines.
+- 🤔 I’m looking for help with implemting converters and game engines.
 - 💬 Ask me about anything.
 - 📫 How to reach me: fountainexponential on gmail.com
 - 😄 Pronouns: It
