@@ -6,5 +6,7 @@
 - 🤔 I’m looking for help with implemting converters and game engines.
 - 💬 Ask me about anything.
 - 📫 How to reach me: fountainexponential on gmail.com
+             Twitter: FountainExp
 - 😄 Pronouns: It
-- ⚡ Fun fact: I could be anyone!
+- ⚡ Fun fact: I could be anyone! 
+               but if you think about it, it could be just one.
