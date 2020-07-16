@@ -7,6 +7,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: fountainexponential on gmail.com
              Twitter: FountainExp
+             Patreon: patreon.com/fountainexponential
 - 😄 Pronouns: It
 - ⚡ Fun fact: I could be anyone! 
                but if you think about it, it could be just one.
